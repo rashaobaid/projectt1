@@ -2,7 +2,7 @@
 	 [
 		{
 			"id": 1,
-			"image": "../img/category1.png",
+			"image": "../../assets/children1.png",
 			"title": "Aenean",
 			"description": "Mauris sollicitudin fermentum libero. Phasellus viverra nulla ut metus varius laoreet."
 		},
