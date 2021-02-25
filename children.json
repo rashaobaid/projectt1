@@ -3,7 +3,7 @@
 			"id": 1,
 			"image": "../img/children1.png",
 			"title": "Maecenas",
-			"price":"$5"
+			"price":"$5",
 			"author": "Vestibulum turpis",
 			"reviewedBy": "Etiam feugiat"
 		},
@@ -11,7 +11,7 @@
 			"id": 2,
 			"image": "../img/children2.png",
 			"title": "Nam",
-			"price":"$45"
+			"price":"$45",
 			"author": "Fusce vulputate",
 			"reviewedBy": "Nunc nec"
 		},
@@ -19,7 +19,7 @@
 			"id": 3,
 			"image": "../img/children3.png",
 			"title": "Suspendisse",
-			"price":"$42"
+			"price":"$42",
 			"author": "Suspendisse pulvinar",
 			"reviewedBy": "Phasellus volutpat"
 		},
@@ -27,7 +27,7 @@
 			"id": 4,
 			"image": "../img/children4.png",
 			"title": "Maecenas",
-			"price":"$20"
+			"price":"$20",
 			"author": "Vestibulum turpis",
 			"reviewedBy": "Etiam feugiat"
 		},
@@ -35,7 +35,7 @@
 			"id": 5,
 			"image": "../img/children5.png",
 			"title": "Nam",
-			"price":"$12"
+			"price":"$12",
 			"author": "Fusce vulputate",
 			"reviewedBy": "Nunc nec"
 		},
@@ -43,6 +43,7 @@
 			"id": 6,
 			"image": "../img/children6.png",
 			"title": "Suspendisse",
+			"price":"$42",
 			"author": "Suspendisse pulvinar",
 			"reviewedBy": "Phasellus volutpat"
 		},
@@ -50,6 +51,7 @@
 			"id": 7,
 			"image": "../img/children4.png",
 			"title": "Maecenas",
+			"price":"$41",
 			"author": "Vestibulum turpis",
 			"reviewedBy": "Etiam feugiat"
 		},
@@ -57,7 +59,7 @@
 			"id": 8,
 			"image": "../img/children5.png",
 			"title": "Nam",
-			"price":"$17"
+			"price":"$17",
 			"author": "Fusce vulputate",
 			"reviewedBy": "Nunc nec"
 		},
@@ -65,7 +67,7 @@
 			"id": 9,
 			"image": "../img/children6.png",
 			"title": "Suspendisse",
-			"price":"$58"
+			"price":"$58",
 			"author": "Suspendisse pulvinar",
 			"reviewedBy": "Phasellus volutpat"
 		}
