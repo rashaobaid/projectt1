@@ -47,29 +47,6 @@
 			"author": "Suspendisse pulvinar",
 			"reviewedBy": "Phasellus volutpat"
 		},
-		{
-			"id": 7,
-			"image": "../../assets/children4.png",
-			"title": "Maecenas",
-			"price":"$41",
-			"author": "Vestibulum turpis",
-			"reviewedBy": "Etiam feugiat"
-		},
-		{
-			"id": 8,
-			"image": "../../assets/children5.png",
-			"title": "Nam",
-			"price":"$17",
-			"author": "Fusce vulputate",
-			"reviewedBy": "Nunc nec"
-		},
-		{
-			"id": 9,
-			"image": "../../assets/children6.png",
-			"title": "Suspendisse",
-			"price":"$58",
-			"author": "Suspendisse pulvinar",
-			"reviewedBy": "Phasellus volutpat"
-		}
+		
 	]
 
